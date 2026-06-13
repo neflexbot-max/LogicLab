@@ -1,0 +1,1 @@
+console.log("LogicLab iniciado correctamente");
